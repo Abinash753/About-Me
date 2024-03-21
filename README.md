@@ -11,8 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abinashupreti/" target="blank"><img align="center" src="
-" alt="" height="30" width="40" />https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png</a>
+
 
 
 <a href="https://fb.com/abinash upreti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abinash upreti" height="30" width="40" /></a>
