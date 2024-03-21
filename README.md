@@ -5,14 +5,12 @@
 
 - 🌱 I’m currently learning **Software Development**
 
-- 🤝 I’m looking for **Internship**
-
 - 📫 How to reach me **abinashupreti1237@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/abinashupreti/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" alt="abinash upreti" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abinashupreti/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="abinash upreti" height="30" width="40" /></a>
 <a href="https://fb.com/abinash upreti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abinash upreti" height="30" width="40" /></a>
 
 <a href="https://www.youtube.com/c/abinash upreti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abinash upreti" height="30" width="40" /></a>
