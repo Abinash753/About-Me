@@ -11,7 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abinashupreti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abinash upreti" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abinashupreti/" target="blank"><img align="center" src="![image](https://github.com/Abinash753/About-Me/assets/113379244/c1922f8e-4cfd-44c5-930a-ec9aca05f8db)
+" alt="abinash upreti" height="30" width="40" /></a>
 
 
 <a href="https://fb.com/abinash upreti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abinash upreti" height="30" width="40" /></a>
