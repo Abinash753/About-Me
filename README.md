@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abinash Upreti</h1>
 <h3 align="center">Learner of Software Develpment</h3>
-<image align="right"width="200"src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"> 
+<image align="right"width="200"src=""> 
 
 - 🌱 I’m currently learning **Software Development**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abinashupreti/" target="blank"><img align="center" src="![image](https://github.com/Abinash753/About-Me/assets/113379244/c1922f8e-4cfd-44c5-930a-ec9aca05f8db)
+<a href="https://www.linkedin.com/in/abinashupreti/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png
 " alt="abinash upreti" height="30" width="40" /></a>
 
 
